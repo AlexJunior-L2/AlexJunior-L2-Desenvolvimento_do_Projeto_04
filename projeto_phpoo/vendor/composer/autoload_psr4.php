@@ -11,6 +11,7 @@ return array(
     'Symfony\\Polyfill\\Mbstring\\' => array($vendorDir . '/symfony/polyfill-mbstring'),
     'Symfony\\Polyfill\\Ctype\\' => array($vendorDir . '/symfony/polyfill-ctype'),
     'Symfony\\Component\\VarDumper\\' => array($vendorDir . '/symfony/var-dumper'),
+    'Composer\\Semver\\' => array($vendorDir . '/composer/semver/src'),
     'App\\Repositories\\' => array($baseDir . '/App/Repositories'),
     'App\\Models\\' => array($baseDir . '/App/Models'),
     'App\\Interfaces\\' => array($baseDir . '/App/Interfaces'),
